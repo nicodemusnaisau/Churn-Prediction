@@ -1,6 +1,6 @@
 ## Churn Prediction
 
-train a machine learning model to predict which customers are likely to cancel their subscriptions in the near future
+Train a machine learning model to predict which customers are likely to cancel their subscriptions in the near future
 
 ---
 
@@ -14,7 +14,7 @@ train a machine learning model to predict which customers are likely to cancel t
 
 ---
 
-## Findigs
+## Findings
 ![report](/plots/monthly.png)![report](/plots/tenure.png)
 ![report](/plots/totalcharges.png)
 ![report](/plots/correlation.png)
